@@ -1,4 +1,4 @@
-FROM abhinav26.jfrog.io/docker-abhinav-virtual/alpine:3.11.5
+FROM abhinav26.jfrog.io/alpine:3.11.5
 
 CMD printf "\nCONGRATULATIONS!!!\n\nYou have just set up your first Docker repository with the new JFrog Platform!\n\n"
 
